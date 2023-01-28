@@ -12,3 +12,7 @@ https://www.kaggle.com/datasets/allandclive/chicken-disease-1
 
 We found that disease in chickens is quite difficult for farmers, because when a chicken is sick, other chickens have the potential to be infected with the same disease, so we propose a project that can recognize disease in chickens through chicken droppings. We are trying to combine machine learning, cloud computing, and mobile development in a disease classification project in chickens.
 
+## Screenshots
+an example of a dataset used regarding diseases in chickens that have been labeled
+![Example screenshot](readmefiles.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
