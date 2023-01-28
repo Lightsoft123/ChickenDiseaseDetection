@@ -1,0 +1,4 @@
+venv/*
+static/MLModule/modelmobilenetv1.h5
+static/MLModule/modelresnet.h5
+__pycache__/*
